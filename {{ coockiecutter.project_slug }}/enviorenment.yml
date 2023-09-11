@@ -1,0 +1,15 @@
+name: {{ cookiecutter.project_slug }}
+
+## Where the libraries will be searched for download
+channels:
+  - anaconda
+  - conda_forge
+  - defaults
+
+Dependencies:
+  - python
+  - pip
+  - pandas
+  - seaborn
+  - jupyter
+  - jupyterlab
