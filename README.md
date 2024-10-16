@@ -33,5 +33,5 @@ pip install cookie-cutter
 Then, you can use the following command to create a new project:
 
 ```bash
-cookiecutter git@github.com:Alejolamilla/Cookiecutter_Data_Analysis.git
+cookiecutter git@github.com:Alphalejo/Cookiecutter_Data_Analysis.git
 ```
